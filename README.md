@@ -1,6 +1,6 @@
 # Inserir Notas Fiscais No Thuban
 
-Este projeto é um script de automação para criação e contabilização de Notas Fiscais (NFs) utilizando o navegador Microsoft Edge e automação de interação com a interface do usuário através das bibliotecas `Selenium` e `PyAutoGUI`. O script também utiliza `Pandas` para leitura de arquivos Excel e automação de preenchimento de dados em um sistema web.
+Este projeto é um script de automação para criação e contabilização de Notas Fiscais (NFs) do hotel `Almenat Tapestry Collection by Hilton` utilizando o navegador Microsoft Edge e automação de interação com a interface do usuário através das bibliotecas `Selenium` e `PyAutoGUI`. O script também utiliza `Pandas` para leitura de arquivos Excel e automação de preenchimento de dados em um sistema web.
 
 ## Funcionalidades
 
